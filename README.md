@@ -2,7 +2,7 @@
 
 # Hola👋, bienvenido a mi perfil!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+nombre+es+Dan+Pirlitu;Aprendiendo+Python;Estudiante+de+Sistemas+Microinformáticos+y+Redes"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+nombre+es+Dan+Pirlitu;Aprendiendo+Python+:);Estudiante+de+SMR"/>
 
  <p>- <i>Estoy estudiando un GM de Sistemas Microinformáticos y Redes. Interesado en el desarrollo backend, principalmente Python.  </i></p>
 
