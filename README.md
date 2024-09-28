@@ -2,9 +2,9 @@
 
 # Hola👋, bienvenido a mi perfil!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+nombre+es+Dan+Pirlitu;Aprendiendo+Python+:);Estudiante+de+SMR"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+nombre+es+Dan+Pirlitu;Aprendiendo+Python+:);Estudiante+de+DAW"/>
 
- <p>- <i>Estoy estudiando un GM de Sistemas Microinformáticos y Redes. Interesado en el desarrollo backend, principalmente Python.  </i></p>
+ <p>- <i>Estoy estudiando un GS de Desarrollo de Aplicaciones Web. Interesado en el desarrollo backend, principalmente Python.  </i></p>
 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 
@@ -12,7 +12,7 @@
 
 </br>
 
-- 🌱 Estudiando Python
+- 🌱 Estudiando Python y Java
 - 📫 Contacto: danpirlitu13@gmail.com
 
 <hr>
